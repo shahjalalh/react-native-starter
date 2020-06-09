@@ -2,7 +2,7 @@
 
 First clone the git repo:
 ```
-$ git clone 
+$ git clone https://github.com/shahjalalh/react-native-starter.git
 ```
 
 Installing and starting with **Yarn!**
