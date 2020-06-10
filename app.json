@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "arrogant-watermelon",
-    "slug": "snack-9d70ef4d-c75d-49d9-ae5a-81a6170a1299",
+    "name": "rn-starter",
+    "slug": "rn-starter",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
     "platforms": [
       "ios",
       "android",
